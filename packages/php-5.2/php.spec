@@ -12,7 +12,7 @@ License: PHP
 Group: Development/Languages
 URL: http://www.php.net/
 
-Source0: http://www.php.net/distributions/php-%{version}.tar.bz2
+Source0: http://museum.php.net/php5/php-%{version}.tar.bz2 
 Source1: php.conf
 Source2: php.ini
 Source3: macros.php
